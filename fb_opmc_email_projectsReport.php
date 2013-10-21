@@ -4,7 +4,7 @@ Plugin Name: FreshBooks Daily Billing Stats Lite
 Description: This plugin allows you to send an email to an email address you specify showing the total amount invoiced weekly via your FreshBooks account over the past two weeks. It also contains the amount invoiced for each day of the week.
 Version: 1.0
 Author: OPMC
-Author URI: http://www.opmc.com.au
+Author URI: http://www.opmc.com.au/
 Plugin URI: http://www.opmc.com.au/product/freshbooks-daily-billing-stats-lite/
 Network: true
 */
