@@ -3,7 +3,7 @@ Contributors: OPMC
 Donate link: 
 Tags: Freshbook, Billing, Email, Report
 Requires at least: 3.0.1
-Tested up to: 3.6
+Tested up to: 3.6.1
 Stable tag: 1.0
 License: 
 License URI: http://
