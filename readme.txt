@@ -1,9 +1,9 @@
 === FreshBooks Daily Billing Stats Lite ===
 Contributors: OPMC
 Donate link: http://example.com/
-Tags: comments, spam
+Tags: Freshbook, Billing, Email, Report
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 3.6
 Stable tag: 1.0
 License: 
 License URI: http://
