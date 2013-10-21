@@ -5,6 +5,7 @@ Description: This plugin allows you to send an email to an email address you spe
 Version: 1.0
 Author: OPMC
 Author URI: http://www.opmc.com.au
+Plugin URI: http://www.opmc.com.au/product/freshbooks-daily-billing-stats-lite/
 Network: true
 */
 
