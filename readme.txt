@@ -17,7 +17,7 @@ This free plugin allows users to send a report to a specified email address that
 
 All a user needs to use this plugin is a Freshbooks account and an authentication token.
 
-<h2>Technical Specification/Features:</h2>
+<strong>Technical Specification/Features:</strong>
 
 <ol>
 <li>Invoicing amounts are shown per week for the current and previous week.</li>
@@ -26,12 +26,12 @@ All a user needs to use this plugin is a Freshbooks account and an authenticatio
 </ol>
 
 
-<h2>Images</h2>
+<strong>Images</strong>
 
 <p><img width="564" height="496" class="alignnone size-full wp-image-966" alt="FreshBooks Daily Billing Stats Lite" src="http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png"></p>
 
 
-<a style="color: rgb(0, 164, 233);"href="http://www.opmc.com.au" target="_blank"><img style="padding-top: 10px;" height="60px" src="http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png"/></a>
+<a href="http://www.opmc.com.au" target="_blank"><img style="padding-top: 10px;" height="60px" src="http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png"/></a>
 
 == INSTALLATION ==
 
@@ -49,7 +49,7 @@ this.  But if not, it's a standard WordPress plugin install.  Ie:-
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.png.
+1. This screen shot shows how the received email looks like.
 2. This is the second screen shot
 
 
