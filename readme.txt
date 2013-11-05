@@ -8,13 +8,21 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+This free plugin allows users to send a report to a specified email address that shows them the daily and weekly amounts invoiced via Freshbooks.
 
 == Description ==
-Getting a quick update of your recent Freshbooks invoicing has never been easier. 
-This free plugin allows users to send a report to a specified email address that 
-shows them the daily and weekly amounts invoiced via Freshbooks for the current 
-week and for the previous week, giving them a snapshot of their recent invoicing 
-activity.
+Getting a quick update of your recent Freshbooks invoicing has never been easier.
+
+This free plugin allows users to send a report to a specified email address that shows them the daily and weekly amounts invoiced via Freshbooks for the current week and for the previous week, giving them a snapshot of their recent invoicing activity.
+
+All a user needs to use this plugin is a Freshbooks account and an authentication token.
+
+<h2>Technical Specification/Features:</h2>
+<ol>
+<li>Invoicing amounts are shown per week for the current and previous week.</li>
+<li>Invoicing amounts are broken down into daily totals.</li>
+<li>User can specify any email address for the report to be sent to.</li>
+</ol>
 
 
 == INSTALLATION ==
