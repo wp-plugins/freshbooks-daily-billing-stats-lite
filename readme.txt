@@ -47,6 +47,10 @@ this.  But if not, it's a standard WordPress plugin install.  Ie:-
 3.  Once it's been installed, "Activate" the plugin as prompted (or manually
     activate it later from the "Plugins" screen, if you prefer).
 
+== Screenshots ==
+
+1. This screen shot description corresponds to screenshot-1.png.
+2. This is the second screen shot
 
 
 == Changelog ==
