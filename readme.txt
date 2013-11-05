@@ -33,7 +33,7 @@ All a user needs to use this plugin is a Freshbooks account and an authenticatio
 
 ![Alt text](http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png "FreshBooks Daily Billing Stats Lite - Admin panel")
 
-<a href="http://www.opmc.com.au" target="_blank"><img style="padding-top: 10px;" height="60px" src="http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png"/></a>
+[![opmc-logo](http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png)](http://www.opmc.com.au)
 
 == INSTALLATION ==
 
