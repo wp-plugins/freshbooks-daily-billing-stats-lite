@@ -1,6 +1,9 @@
 === FreshBooks Daily Billing Stats Lite ===
 Contributors: OPMC
 Donate link: http://www.opmc.com.au/donate/
+Author: OPMC
+Author URI: http://www.opmc.com.au
+Plugin URI: http://www.opmc.com.au/product/freshbooks-daily-billing-stats-lite/
 Tags: freshbooks, billing, invoicing, reports
 Requires at least: 3.0.1
 Tested up to: 3.6.1
@@ -26,17 +29,13 @@ All a user needs to use this plugin is a Freshbooks account and an authenticatio
 </ol>
 
 
-<strong>Images</strong>
+<strong>Images:</strong>
 
-<p><img width="564" height="496" class="alignnone size-full wp-image-966" alt="FreshBooks Daily Billing Stats Lite" src="http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png"></p>
-
+![Alt text](http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png "FreshBooks Daily Billing Stats Lite - Admin panel")
 
 <a href="http://www.opmc.com.au" target="_blank"><img style="padding-top: 10px;" height="60px" src="http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png"/></a>
 
 == INSTALLATION ==
-
-Since you're reading the plugin's README.TXT, you've probably already done
-this.  But if not, it's a standard WordPress plugin install.  Ie:-
 
 1.  Log into the WordPress Admin section of the WordPress/WooCommerce site you
     want to install the plugin to.
