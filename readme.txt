@@ -29,9 +29,9 @@ All a user needs to use this plugin is a Freshbooks account and an authenticatio
 
 **Images:**
 
-![Alt text](http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png "FreshBooks Daily Billing Stats Lite - Admin panel")
+![snapshot](http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png "FreshBooks Daily Billing Stats Lite - Admin panel")
 
-[![opmc-logo](http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png)](http://www.opmc.com.au)
+[![opmc logo](http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png)](http://www.opmc.com.au)
 
 == INSTALLATION ==
 
