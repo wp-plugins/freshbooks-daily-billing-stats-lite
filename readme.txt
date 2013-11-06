@@ -11,30 +11,16 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This free plugin allows users to send a report to a specified email address that shows them the daily and weekly amounts invoiced via Freshbooks.
+Easily keep track of all your FreshBooks invoicing activity with this free Freshbooks plugin from OPMC.
 
 == Description ==
-Getting a quick update of your recent Freshbooks invoicing has never been easier.
+Do you have so many FreshBooks invoices it’s difficult to keep track of them all and keep them up-to-date in your memory? Do you loathe searching through forests of numbers just to find what you’re looking for in a long report?
 
-This free plugin allows users to send a report to a specified email address that shows them the daily and weekly amounts invoiced via Freshbooks for the current week and for the previous week, giving them a snapshot of their recent invoicing activity.
+Get a weekly snapshot of your recent FreshBooks invoicing activity with this handy and free plugin from OPMC.
 
-All a user needs to use this plugin is a Freshbooks account and an authentication token.
+The plugin allows you to designate an email address to receive a weekly email that details all invoicing activity in your Freshbooks account for the current and previous weeks. The reports are easy to digest at a glance and are broken down into daily totals for your convenience.
 
-**Technical Specification/Features:**
-
-1.  Invoicing amounts are shown per week for the current and previous week.
-
-2.  Invoicing amounts are broken down into daily totals.
-
-3.  User can specify any email address for the report to be sent to.
-
-
-**Images:**
-
-![snapshot](http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png "FreshBooks Daily Billing Stats Lite - Admin panel")
-
-[![opmc logo](http://www.opmc.com.au/site/wp-content/uploads/opmc_logo1.png)](http://www.opmc.com.au)
-
+These mini-reports are perfect for business people who have a lot on the go for getting a quick update about FreshBooks invoicing activity. Keep up to date the quick, easy and free way with FreshBooks Daily Billing Stats Lite from OPMC.
 
 
 == INSTALLATION ==
