@@ -22,9 +22,9 @@ All a user needs to use this plugin is a Freshbooks account and an authenticatio
 
 **Technical Specification/Features:**
 
-1. Invoicing amounts are shown per week for the current and previous week.</li>
-2. Invoicing amounts are broken down into daily totals.</li>
-3. User can specify any email address for the report to be sent to.</li>
+1. Invoicing amounts are shown per week for the current and previous week.
+2. Invoicing amounts are broken down into daily totals.
+3. User can specify any email address for the report to be sent to.
 
 **Images:**
 
