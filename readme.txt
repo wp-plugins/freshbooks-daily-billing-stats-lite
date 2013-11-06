@@ -20,16 +20,13 @@ This free plugin allows users to send a report to a specified email address that
 
 All a user needs to use this plugin is a Freshbooks account and an authentication token.
 
-<strong>Technical Specification/Features:</strong>
+**Technical Specification/Features:**
 
-<ol>
-<li>Invoicing amounts are shown per week for the current and previous week.</li>
-<li>Invoicing amounts are broken down into daily totals.</li>
-<li>User can specify any email address for the report to be sent to.</li>
-</ol>
+1. Invoicing amounts are shown per week for the current and previous week.</li>
+2. Invoicing amounts are broken down into daily totals.</li>
+3. User can specify any email address for the report to be sent to.</li>
 
-
-<strong>Images:</strong>
+**Images:**
 
 ![Alt text](http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png "FreshBooks Daily Billing Stats Lite - Admin panel")
 
