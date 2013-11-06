@@ -26,7 +26,7 @@ All a user needs to use this plugin is a Freshbooks account and an authenticatio
 2. Invoicing amounts are broken down into daily totals.
 3. User can specify any email address for the report to be sent to.
 
-123
+
 **Images:**
 
 ![Alt text](http://www.opmc.com.au/site/wp-content/uploads/freshbooks_daily_billing_stats.png "FreshBooks Daily Billing Stats Lite - Admin panel")
