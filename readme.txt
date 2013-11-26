@@ -1,7 +1,7 @@
 === FreshBooks Daily Billing Stats Lite ===
-Contributors: OPMC
+Contributors: opmc
 Donate link: http://www.opmc.com.au/donate/
-Author: [OPMC](http://www.opmc.com.au)
+Author: OPMC
 Author URI: http://www.opmc.com.au
 Plugin URI: http://www.opmc.com.au/product/freshbooks-daily-billing-stats-lite/
 Tags: freshbooks, billing, invoicing, reports
