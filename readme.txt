@@ -24,6 +24,8 @@ These mini-reports are perfect for business people who have a lot on the go for 
 
 To upgrade to the Pro version of this plugin please click [here](http://codecanyon.net/item/freshbooks-daily-statistics-pro/6442582 "FreshBooks Daily Billing Stats Pro"). 
 
+The Pro version allows users to send a comprehensive report to a specified email address that shows them a run down of important FreshBooks statistics, including figures for amount billed, amount owed, top 10 debtors and more.
+
 == INSTALLATION ==
 
 1.  Log into the WordPress Admin section of the WordPress/WooCommerce site you
