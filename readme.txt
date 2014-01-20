@@ -22,6 +22,7 @@ The plugin allows you to designate an email address to receive a weekly email th
 
 These mini-reports are perfect for business people who have a lot on the go for getting a quick update about FreshBooks invoicing activity. Keep up to date the quick, easy and free way with FreshBooks Daily Billing Stats Lite from OPMC.
 
+To upgrade to the Pro version of this plugin please click [here](http://codecanyon.net/item/freshbooks-daily-statistics-pro/6442582 "FreshBooks Daily Billing Stats Pro"). 
 
 == INSTALLATION ==
 
