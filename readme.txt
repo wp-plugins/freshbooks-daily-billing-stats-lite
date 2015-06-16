@@ -6,7 +6,7 @@ Author URI: http://www.opmc.com.au
 Plugin URI: http://www.opmc.com.au/product/freshbooks-daily-billing-stats-lite/
 Tags: freshbooks, billing, invoicing, reports
 Requires at least: 3.0.1
-Tested up to: 3.6.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
